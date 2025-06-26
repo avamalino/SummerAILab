@@ -1,0 +1,11 @@
+{
+  "name": "summer-ai-langchain",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "@langchain/google-genai": "^0.0.1",
+    "dotenv": "^16.0.3",
+    "langchain": "^0.1.0"
+  }
+}
